@@ -1,0 +1,16 @@
+class Global_Vars:
+    model = []
+    UNET_PATH = []
+    Images = []
+    Feat1 = []
+    Feat2 = []
+    Feat3 = []
+    Feat = []
+    Target = []
+    learnperc = None
+    Train_Data = []
+    Train_Target = []
+    Test_Data = []
+    Test_Target = []
+    congesIndex = []
+    paths = []
